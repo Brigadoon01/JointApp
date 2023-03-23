@@ -1,0 +1,11 @@
+.create-form{
+    max-width: 600px;
+    overflow-y: scroll;
+    height: 70vh;
+}
+.page-title{
+    font-size: 1.5em
+}
+.buttom{
+    margin-bottom: 15px;
+}

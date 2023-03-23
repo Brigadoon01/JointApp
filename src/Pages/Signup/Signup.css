@@ -1,0 +1,16 @@
+.auth-form{
+    max-width: 360px;
+    margin: 60px auto;
+    padding: 40px;
+    border: 1px solid #ddd;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.5);
+    background: #fff;
+    border-radius: 6px;
+}
+.auth-form h2{
+    text-align: center;
+}
+.auth-form .btn{
+    display: grid;
+    place-items: center;
+}
